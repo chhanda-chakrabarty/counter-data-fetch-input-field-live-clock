@@ -1,11 +1,12 @@
-# counter-data-fetch-input-field-live-clock
-# Practice session for react useState-useEffect
 
 # Project structure
 
-- ----github
-----create four folders
+----- connect with github
+----- create repository
+---- create four folders individually to develope each application.
 ---- using --> useState,useEffect
+
+
 ---- first--> Counter Component
 
 		---- use useState to track the count.
@@ -26,4 +27,7 @@
 ---- Fourth--> Live Clock
 		---- use useState to track the current time.
 		---- use useEffect along with setInterval to update the time every second to display it.	
-----vsCode
+
+----> Tools
+
+            -- vsCode, github, google, react official documentation.
